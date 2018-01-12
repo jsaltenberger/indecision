@@ -1,5 +1,5 @@
 class Person {
-    constructor(name = 'Anonymous', age = 0) {
+  constructor(name = 'Anonymous', age = 0) {
       this.name = name;
       this.age = age;
     }
